@@ -1,11 +1,11 @@
 const REPLACEMENTS = [
   // === Mojang ===
-  { regex: /launchermeta\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
-  { regex: /piston-meta\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
-  { regex: /piston-data\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
-  { regex: /launcher\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
-  { regex: /resources\.download\.minecraft\.net/g, replacement: 'bmclapi2.bangbang93.com/assets' },
-  { regex: /libraries\.minecraft\.net/g, replacement: 'bmclapi2.bangbang93.com/maven' },
+  //{ regex: /launchermeta\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
+  //{ regex: /piston-meta\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
+  //{ regex: /piston-data\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
+  //{ regex: /launcher\.mojang\.com/g, replacement: 'bmclapi2.bangbang93.com' },
+  //{ regex: /resources\.download\.minecraft\.net/g, replacement: 'bmclapi2.bangbang93.com/assets' },
+  //{ regex: /libraries\.minecraft\.net/g, replacement: 'bmclapi2.bangbang93.com/maven' },
   
   // === Fabric ===
   { regex: /meta\.fabricmc\.net/g, replacement: 'bmclapi2.bangbang93.com/fabric-meta' },
